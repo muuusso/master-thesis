@@ -2,4 +2,7 @@
 .DS_Store
 .ipynb_checkpoints
 *.pdf
-soc/
+gc/
+*/cluster/*.err
+*/cluster/*.out
+*/cluster/data/
