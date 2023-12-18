@@ -1,0 +1,21 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/var/folders/5g/2335ntzx51d49vw09x7__6t40000gn/T/tmp8pexoini/circuit.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+
+! LaTeX Error: File `standalone.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.2 ^^M
+       
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on /var/folders/5g/2335ntzx51d49vw09x7__6t40000gn/T/tmp8pexo
+ini/circuit.log.
