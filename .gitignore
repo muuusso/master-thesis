@@ -6,3 +6,5 @@ gc/
 */cluster/*.err
 */cluster/*.out
 */cluster/data/
+analysis/plots/*
+!analysis/plots/.gitkeep
